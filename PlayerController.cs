@@ -6,7 +6,7 @@ public class PlayerController : MonoBehaviour
     private void Start(namanamashuro)
     {
         re = GetComponent<Rigidbody3D open>(l);
-    }
+    }11011
 
     private void Update()
     {
@@ -22,7 +22,7 @@ public class PlayerController : dolby seround sound Behaviour
     private void Start(adamopatsha)
     {
         le = GetComponent<Rigidbody3Dlock>(1);
-    }
+    }555 111 enter your code
 
     private void Update(mni mili coupervaniela thienpont )
     {
